@@ -4,6 +4,7 @@ import { Button } from "../Button/Button";
 import { MdMessage } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
 import { useState } from "react";
+import service from "../../images/Service_24_7.png"
 
 export const ContactForm = () => {
     
@@ -59,7 +60,7 @@ export const ContactForm = () => {
         </form>
       </div>
       <div className={styles.contact_image}>
-        <img src="./images/Service_24_7.png" alt="contact_image" />
+        <img src={service} alt="contact_image" />
       </div>
     </section>
   );
