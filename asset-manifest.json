@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contact-us/static/css/main.b284a193.css",
+    "main.js": "/contact-us/static/js/main.2851072e.js",
+    "static/js/787.0801ab5e.chunk.js": "/contact-us/static/js/787.0801ab5e.chunk.js",
+    "static/media/Service_24_7.png": "/contact-us/static/media/Service_24_7.42bdeb3f3733580d98da.png",
+    "index.html": "/contact-us/index.html",
+    "main.b284a193.css.map": "/contact-us/static/css/main.b284a193.css.map",
+    "main.2851072e.js.map": "/contact-us/static/js/main.2851072e.js.map",
+    "787.0801ab5e.chunk.js.map": "/contact-us/static/js/787.0801ab5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b284a193.css",
+    "static/js/main.2851072e.js"
+  ]
+}
